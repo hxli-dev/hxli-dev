@@ -1,6 +1,6 @@
 # Hi, I'm Hongxin Li 👋
 
-Product Designer & Creative Technologist building AI-powered products, interactive systems, and digital experiences.
+Designer & Creative Technologist building AI-powered products, interactive systems, and digital experiences.
 
 Based in New York. Currently pursuing an M.S. in Integrated Design & Media at NYU.
 
